@@ -1,0 +1,4 @@
+Image Targets - PTC - https://assetstore.unity.com/packages/templates/packs/vuforia-core-samples-99026
+CyberSoldier - Will Morillas - https://assetstore.unity.com/packages/3d/characters/robots/cyber-soldier-52064
+Oxygen Tank - Universal Assets - https://assetstore.unity.com/packages/3d/props/industrial/industrial-props-kit-84745
+Zombie - Artalasky - https://assetstore.unity.com/packages/3d/characters/humanoids/modern-zombie-free-58134
