@@ -1,11 +1,8 @@
 # VuforiaStarter
 Android Augmented Reality Tutorial Application For Android
 
-[author]
-  name = Frank Lubek
-  email = flubek@gmail.com
-  secondary_email = flube2@uic.edu
-
+@author Frank Lubek
+  
 **Built, but not tested, for Windows**
 
 ***Currently, this app is intended for Android only.***
