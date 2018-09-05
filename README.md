@@ -10,9 +10,9 @@ Android Augmented Reality Tutorial Application For Android
 
 ***Currently, this app is intended for Android only.***
 
-If you would only like to install the Android app, please navigate to Builds/Android and download the .apk file.
-If you would like to try the experimental Windows (7) build, please download the Builds/Windows folder and run the .exe.
-If you would like to mess with the source code for some strange reason, feel free to do so as long as you cite all of my sources and I.
+* If you would only like to install the Android app, please navigate to Builds/Android and download the .apk file.
+* If you would like to try the experimental Windows (7) build, please download the Builds/Windows folder and run the .exe.
+* If you would like to mess with the source code for some strange reason, feel free to do so as long as you cite all of my sources and I.
 
 The following is in reference to Android 7. It *should* work for all Android phones but I can't guarentee anything.
 
